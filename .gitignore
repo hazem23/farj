@@ -1,0 +1,23 @@
+/AppData/
+/Application Data/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+/Documents/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/Pictures/
+/Videos/
+/Desktop.ini
+/NTUSER.DAT*
+/OneDrive/
+/.*
+!/.gitignore
